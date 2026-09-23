@@ -84,5 +84,45 @@ Complete all of the following in your notes section.
 
 # Section 3: Student Notes
 
-Delete this line and write your notes here.
+# My git notes
 
+This is my readme file for class to show the basics of git and github
+
+---
+
+## What is git and github?
+
+git helps track changes in code and github is where we store them online.
+
+### Important terms to know
+
+- **Local** means the files are on *my personal computer*.
+- **Remote** means the files are saved on GitHub's servers in the cloud.
+- A **branch** is just a separate version of the project so you do not mess up the *main* code.
+
+## Steps to save my work
+
+Here is the order you have to do things in the terminal:
+
+1. Always pull first so you have the newest files from GitHub.
+2. Stage your files using `git add .` to get them ready.
+3. Commit your changes with a short message using `git commit -m "your message"`.
+4. Push your work to GitHub using `git push origin branchname`.
+
+## Commands I Used
+
+* `git pull origin "branchname"`
+* `git branch -m "name_of_branch"`
+* `git add .`
+* `git commit -m "Added homepage content"`
+* `git push origin "branchname"`
+
+## My Homework Checklist
+
+- [x] Pull latest files before doing any homework
+- [x] Add and commit my new code with good messages
+- [x] Push everything to GitHub before the deadline
+
+## My GitHub Link
+
+Check out my profile here: [Adam Ingwell's GitHub Profile](https://github.com/AdamIngwell)
